@@ -4,7 +4,7 @@ A variety of comment snippets for Sublime Text
 
 ## Block Comment
 
-**trigger:** /*⇥
+**trigger:** `/*`⇥
 
 ```
 /*
@@ -14,7 +14,7 @@ A variety of comment snippets for Sublime Text
 
 ## Protected Block Comment
 
-**trigger:** /*!⇥
+**trigger:** `/*!`⇥
 
 ```
 /*!
@@ -24,7 +24,7 @@ A variety of comment snippets for Sublime Text
 
 ## Docblock Comment
 
-**trigger:** /**⇥
+**trigger:** `/**`⇥
 
 ```
 /**
@@ -34,7 +34,7 @@ A variety of comment snippets for Sublime Text
 
 ## Deluxe Docblock Comment (JS)
 
-**trigger:** /***⇥
+**trigger:** `/***`⇥
 
 ```
 /**
@@ -48,7 +48,7 @@ A variety of comment snippets for Sublime Text
 
 ## Deluxe Docblock Comment (PHP)
 
-**trigger:** /***⇥
+**trigger:** `/***`⇥
 
 ```
 /**
@@ -62,7 +62,7 @@ A variety of comment snippets for Sublime Text
 
 ## Shebang Comment (shell)
 
-**trigger:** #!⇥
+**trigger:** `#!`⇥
 
 ```
 #!/usr/bin/env bash
